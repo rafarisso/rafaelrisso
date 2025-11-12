@@ -100,7 +100,7 @@ Séries de apps completos para hamburguerias e restaurantes, com carrinho, catá
 
 ## 📬 Contato
 
-📩 **E-mail:** contato@rrsolutions.app  
+📩 **E-mail:** risso_rafa@hotmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/rafaeltrisso/  
 🌐 **Portfólio:** https://rrsolutions.netlify.app  
 
